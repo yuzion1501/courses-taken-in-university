@@ -2,5 +2,5 @@
 some courses i enrolled in my student year at HCMUS (University of Science -VietNam)
 
 Name of courses :
-- Design and analysis algorithm
+- Design and analysis of algorithms
 - Computer Network
