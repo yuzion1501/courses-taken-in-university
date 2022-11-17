@@ -1,0 +1,4 @@
+ID Name Gender Score
+123,Nguyen Hoang Long,Nam,8.5
+124,Le Phuong Nghi,Nu,8.0
+125,Ngyuen Khanh Vy,Nu,9.5
